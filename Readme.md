@@ -30,7 +30,7 @@ To validate and apply the ML skills I’ve learned through self-study by buildin
 | File | Description |
 |------|-------------|
 | `app.py` | Main Streamlit app script |
-| `wine-quality-final.xlsx` | Dataset used for training |
+| `wine-quality-red.csv` | Dataset used for training |
 | `README.md` | This documentation |
 
 ---
